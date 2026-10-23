@@ -1,0 +1,1 @@
+{"name": "ASP.NET Core + React Product", "slug": "template-dotnet-react", "kind": "workspace-template", "description": "Workspace template for a product built on an ASP.NET Core 10 Web API with a React, Vite and TypeScript single-page frontend.", "version": "1.0.0", "priceMinor": 0, "currency": "USD", "contentDir": "workspace"}
