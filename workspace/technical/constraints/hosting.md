@@ -1,6 +1,6 @@
 # Hosting constraints
 
-- Everything runs as Linux containers on the company Kubernetes cluster. Base
+- Everything runs as Linux containers on the {{ orgName }} Kubernetes cluster. Base
   images: `mcr.microsoft.com/dotnet/aspnet:10.0-alpine` for the API; `node:22-alpine`
   (build stage) and `nginx:alpine` (runtime stage) for the frontend. Containers run
   rootless.

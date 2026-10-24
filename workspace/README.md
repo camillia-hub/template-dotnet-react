@@ -1,6 +1,6 @@
 # Product workspace: ASP.NET Core API + React SPA
 
-This workspace builds and evolves **<Product>**, a web product made of:
+This workspace builds and evolves **{{ projectName }}**, a web product made of:
 
 - `backend` — an ASP.NET Core 10 Web API (see `repositories/backend.md`).
 - `frontend` — a React 19 + Vite + TypeScript single-page app (see

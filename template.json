@@ -1,0 +1,18 @@
+{
+  "repositories": [
+    {
+      "key": "api",
+      "label": "API service",
+      "description": "ASP.NET Core Web API backend",
+      "required": true,
+      "overrideContent": false
+    },
+    {
+      "key": "web",
+      "label": "Web frontend",
+      "description": "React + Vite SPA frontend",
+      "required": true,
+      "overrideContent": false
+    }
+  ]
+}

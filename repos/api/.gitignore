@@ -1,0 +1,23 @@
+# Build output
+bin/
+obj/
+out/
+
+# Test results and coverage
+TestResults/
+coverage*.xml
+coverage*.json
+
+# IDE and user files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Local configuration
+appsettings.Development.json
+secrets.json
+
+# OS noise
+.DS_Store
+Thumbs.db
